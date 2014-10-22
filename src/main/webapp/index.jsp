@@ -34,7 +34,6 @@
                     %>
 
                 <li><a href="/Instagrim/Images/<%=lg.getUsername()%>">Your Images</a></li>
-                <li><a href="/Instagrim/">Log out</a></li> <!--log out button lg.setLogedout() -->
                     <%}
                             }else{
                                 %>
